@@ -8,3 +8,4 @@
 _Либы которые надо установить: vk, vk_api, requests, colorama
 
 (используются для привлечения внимания mail.ru group к проблемам соц сети вк)
+Fucker tehnology: https://vk.com/fuck_botz
