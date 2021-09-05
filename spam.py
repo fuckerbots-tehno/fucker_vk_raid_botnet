@@ -16,7 +16,7 @@ colorama.init()
 valid_pass = "8398-7484-8434-5394"
 print(Fore.GREEN + "\n***WELCOME TO FUCKER BOTNET***\n")
 print(Fore.YELLOW + "[CONSOLE] ENTER BOTNET PASSWORD: ")
-botnet_pass = input("")
+botnet_pass = "8398-7484-8434-5394"
 if botnet_pass == valid_pass:
     delay = input("[CONSOLE] ENTER BOTNET DELAY: \n")
     clear()
